@@ -19,9 +19,9 @@ Needs to support:
 - Scripts that communicate over TCP/IP (Maybe it needs a sister program if it gets too bloated)
 - Python, CMD, Powershell, and any peripheral device switching or save states which those scripts create. 
   (example: a script that saves data to a json file for later use)
-- a force shutdown
+- a force shutdown (hotkey and pushbutton)
 - Automatic file naming and directory creation
-- Editing report aswell as creating new ones
+- Editing existing reports aswell as creating new ones
 
 Does NOT need to support:
 - a method for creating test scripts
@@ -36,10 +36,12 @@ May add support for:
 - **Add the ability to record A/V of tests for later review. Add timestamps for errors/failures.**
 - OTA updates and installation manager
 - Save window settings on close
-- Support for long-term tests (maybe a sister program)
+- Support for long-term tests (sister program?)
   - Send email/other notification when test stops running (barometer logger)
   - lightweight
   - can run in the background in system tray or on headless devices
+  - Ideally a script that was written and saved to the main computer can be run on the DUT computer without getting a flash drive and moving it manually.
+    (also fix the obvious security risks of letting users run scripts on other computers over tcp)
   
 Future additions?:
 - Shuffle
