@@ -33,7 +33,7 @@ Does NOT need to support:
 May add support for:
 - a global progress bar
 - skip on error, create a separate queue of skipped tests to rerun
-- **Important** Add the ability to record A/V of tests for later review. Add timestamps for errors/failures.
+- **Add the ability to record A/V of tests for later review. Add timestamps for errors/failures.**
 - OTA updates and installation manager
 - Save window settings on close
 - Support for long-term tests (maybe a sister program)
