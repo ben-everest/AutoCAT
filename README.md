@@ -2,7 +2,7 @@
 
 Automated Computer-Aided Testing
 
-A simple but powerful interface running test scripts.
+A simple but powerful interface for running test scripts.
 
 Features:
 - Tests/Standards/Specs/Playlists
