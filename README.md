@@ -27,8 +27,6 @@ Does NOT need to support:
 - a method for creating test scripts
 - a method for managing files created by those test scripts
 - trash collection should be handled by the test script
--> Everything that the user wants to do is allowed, the tests are performed by the test scripts not AutoCAT. 
-    AutoCAT is a gui for storing and running test scripts, not for doing the actual tests themselves.
 
 May add support for:
 - a global progress bar
