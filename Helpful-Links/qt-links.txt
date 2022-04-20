@@ -1,1 +1,2 @@
 https://stackoverflow.com/questions/8175122/qtreeview-checkboxes
+https://stackoverflow.com/questions/14158191/qt-qtreeview-and-custom-model-with-checkbox-columns
