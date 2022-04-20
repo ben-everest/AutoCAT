@@ -1,1 +1,6 @@
 Add links below:
+method 1:
+// diff output z
+//stays the same to get output x
+method 2:
+x+y
