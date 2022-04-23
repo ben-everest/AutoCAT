@@ -44,3 +44,4 @@ May add support for:
 Future additions?:
 - Shuffle
 - Advanced docking system
+- search bar / sort
